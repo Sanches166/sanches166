@@ -23,9 +23,9 @@ class Attributes():
         @staticmethod
         def education() -> tuple:
           education = {
-          'univercity': ['Ural Federal Univercity'],
-          'department': ['IT'],
-          'speciality:  ['Information security']
+		          'univercity': ['Ural Federal Univercity'],
+		          'department': ['IT'],
+		          'speciality:  ['Information security']
       }
           return education
 
