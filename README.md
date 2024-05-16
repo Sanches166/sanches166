@@ -26,7 +26,7 @@ class Attributes():
 		          'univercity': ['Ural Federal Univercity'],
 		          'department': ['IT'],
 		          'speciality:  ['Information security']
-      }
+ 	  }
           return education
 
 ```
